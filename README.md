@@ -1,5 +1,5 @@
 # Documentation
-Example: (click)[https://github.com/ITlopa-Studios/OpenHookLibrary/blob/main/example/test.c]
+Example: (click)[example/test.c]
 OpenHL_Init(): Function for initialize library
 OpenHL_InstallHook(target_address, hook_function): Function for install hook
 OpenHL_RemoveHook(target_address): Function for remove hook
